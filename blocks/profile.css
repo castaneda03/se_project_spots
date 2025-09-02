@@ -12,6 +12,7 @@
   border-radius: 6px;
   height: 190px;
   width: 190px;
+  scale: fit;
 }
 
 .profile__column {

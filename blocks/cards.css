@@ -66,6 +66,11 @@
   opacity: 100%;
 }
 
+.card__like-button:focus {
+  background-color: red;
+  opacity: 80%;
+}
+
 @media screen and (max-width: 627px) {
   .cards__list {
     grid-template-columns: repeat(auto-fit, 288px);
