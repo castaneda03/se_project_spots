@@ -1,10 +1,8 @@
 .profile {
   margin: 0 auto;
-  padding: 20px 0px 20px;
+  padding: 40px 0px 20px;
   display: flex;
   border-bottom: 1px rgba(33, 33, 33, 0.4) solid;
-  /* max-height: 210px; */
-  /* max-width: 1280px; */
 }
 
 .profile__avatar {
@@ -62,6 +60,7 @@
   font-weight: 500;
   line-height: 1;
   font-size: 16px;
+  gap: 8px;
 }
 
 .profile__edit-button:hover {
@@ -102,7 +101,7 @@
   }
 
   .profile__avatar {
-    margin-right: 0px 12px 12px 0px;
+    margin: 0px 0px 12px;
     width: 80px;
     height: 80px;
   }
