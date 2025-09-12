@@ -4,7 +4,11 @@
 
 A responsive image sharing webpage that allows users to upload photos and add a caption to each post from a desktop or mobile device.
 
-### Tech Stack
+### Video Description:
+
+https://docs.google.com/videos/d/1dd5RkQhB4b4jYiwqkS4OnJe8zyrM202-PgS9Blqm0Vk/edit?usp=sharing
+
+#### Tech Stack
 
 - HTML
 - CSS
@@ -12,7 +16,7 @@ A responsive image sharing webpage that allows users to upload photos and add a 
 - GitHub
 - Responsive design
 
-#### Deployment
+##### Deployment
 
 This webpage is deployed to GitHub Pages
 
